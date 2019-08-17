@@ -1,0 +1,10 @@
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\bin\Debug\OperacionesConArchivos.exe.config
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\bin\Debug\OperacionesConArchivos.exe
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\bin\Debug\OperacionesConArchivos.pdb
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\obj\Debug\OperacionesConArchivos.Properties.Resources.resources
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\obj\Debug\OperacionesConArchivos.csproj.GenerateResource.Cache
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\obj\Debug\OperacionesConArchivos.exe
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\obj\Debug\OperacionesConArchivos.pdb
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\obj\Debug\OperacionesConArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\obj\Debug\OperacionesConArchivos.ControlOperaciones.resources
+C:\Users\Braulio García\Desktop\OperacionesConArchivos\OperacionesConArchivos\obj\Debug\OperacionesConArchivos.OperadorDeArchivos.resources
